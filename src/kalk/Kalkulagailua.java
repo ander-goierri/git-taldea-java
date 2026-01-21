@@ -13,5 +13,7 @@ public class Kalkulagailua {
 			return 0;
 		}
 	}
-	
+	public static int biderketa(int a, int b) {
+		return a*b;
+	}
 }
