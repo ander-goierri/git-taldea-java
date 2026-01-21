@@ -8,5 +8,5 @@ public class Kalkulagailua {
 			System.out.println("ezin da egin zatiketa");
 		}else return zatidura/zatitzailea;
 	}
-	
+
 }
