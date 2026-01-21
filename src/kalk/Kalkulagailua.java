@@ -10,5 +10,13 @@ public class Kalkulagailua {
 			return 0;
 		}
 	}
+	public static int zatiketaZeroKontutanEdukita(int zatidura, int zatitzailea) {
+		return zatidura/zatitzailea;
+		if(zatitzailea!=0) {
+			return zatidura/zatitzailea;
+		}else {
+			return 0;
+		}
+	}
 	
 }
