@@ -9,4 +9,11 @@ public class Kalkulagailua {
 		return zatidura/zatitzailea;
 	}
 	
+	public void zatiketaZeroKontuanEdukita(int zatidura, int zatitzailea) {
+		if(zatitzailea == 0) {
+			int zatiketa = 0;
+		}
+		int zatiketa = zatidura/zatidura;
+	}
+	
 }
